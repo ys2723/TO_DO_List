@@ -4,4 +4,4 @@ The HTML, CSS and JS codes in this repository combine to create a To Do List whe
 
 Link: https://ys2723.github.io/To-Do_List/ 
 
-Will add a video now explaining everything in detail hehe. 
+Will add a video explaining everything in detail soon hehe. 
