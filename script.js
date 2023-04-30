@@ -1,3 +1,5 @@
+// Below two lines create a constant.
+
 const item = document.querySelector(".item")
 const toDoBox = document.querySelector("#to-do-box")
 
@@ -39,5 +41,7 @@ const addToDo = (item) => {
             listItem.remove()
         }
     ) 
+    
+    // New list item is added to the to do box
     toDoBox.appendChild(listItem)
 }
