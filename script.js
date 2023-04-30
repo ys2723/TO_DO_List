@@ -22,7 +22,7 @@ const addToDo = (item) => {
           <i class = "fas fa-times"></i>
     `;
     
-    
+    // Below six lines of code strike off the element and change colour (using CSS) when the list item is clicked. BTW today is 1 May 2023. Time 0035 hrs.
 
     listItem.addEventListener(
         "click",
