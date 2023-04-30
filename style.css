@@ -64,6 +64,8 @@ body{
     transform: translate(0%,-50%);
 }
 
+/*When user strikes off a list item */
+
 .done{
     text-decoration: line-through;
     color: black;
