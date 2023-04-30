@@ -1,2 +1,5 @@
-# TO_DO_List
-This repository consists of basic HTML, CSS and JavaScript Codes which are used to make a To-Do list Website. The website looses data every time it is reloaded. 
+# To Do List
+
+The HTML, CSS and JS codes in this repository combine to create a To Do List where a person can add work, strike off the doen wrok and also remove work. 
+
+Link: https://ys2723.github.io/To-Do_List/ 
