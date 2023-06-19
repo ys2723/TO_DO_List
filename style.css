@@ -67,7 +67,7 @@ body{
     transform: translate(0%,-50%);
 }
 
-// When user strikes off a list item
+/* Below code is for when a user strikes off an item */
 
 .done{
     text-decoration: line-through;
