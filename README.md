@@ -14,3 +14,10 @@ Link: https://ys2723.github.io/To-Do_List/
 
 ## Can remove item(s) from the list by Clicking on X:
 ![Screenshot3_remove_items](https://i.postimg.cc/sf5Jf3VP/Screenshot-16861.png)
+
+##
+# Project Information
+Team Size: 1
+Project Start Date: 30 April 2023
+Project End Date: 1 May 2023
+Team Member(s): Yash Tripathi.
