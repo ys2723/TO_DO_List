@@ -17,7 +17,7 @@ Link: https://ys2723.github.io/To-Do_List/
 
 ##
 # Project Information
-Team Size: 1
-Project Start Date: 30 April 2023
-Project End Date: 1 May 2023
+Team Size: 1 <br/>
+Project Start Date: 30 April 2023 <br/>
+Project End Date: 1 May 2023 <br/>
 Team Member(s): Yash Tripathi.
